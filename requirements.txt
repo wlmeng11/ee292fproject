@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+tqdm
+pandas
+scikit-image
+scikit-learn
+plotly
+psutil
