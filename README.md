@@ -17,3 +17,8 @@ jupyter notebook
 ```
 
 Note that `pip install jupyter` will not work correctly because it won't install jupyter into the path of the conda env, ie. `~/.conda/envs/python38/bin/jupyter`.
+
+# References
+The algorithm used in the analysis is based on [A robot for classifying Chinese calligraphic types and styles](https://ieeexplore.ieee.org/document/6631182) by Sun et al.
+
+The source images are copyright of their respective owners.
